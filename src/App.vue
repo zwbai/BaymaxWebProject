@@ -2,6 +2,7 @@
   <div id="app">
     <Navigation></Navigation>
     <Tips></Tips>
+    <Maindoc></Maindoc>
     <Footer></Footer>
   </div>
 </template>
@@ -10,12 +11,14 @@
 import Footer from './home/footer.vue'
 import Tips from './home/tips.vue'
 import Navigation from "./home/navigation.vue"
+import Maindoc from './home/maindoc.vue'
 
 export default {
   name: 'App',
   components: {
     Navigation,
     Tips,
+    Maindoc,
     Footer,
 
   }
