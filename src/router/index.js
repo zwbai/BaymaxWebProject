@@ -1,10 +1,12 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-import Footer from '@/components/footer'
-import Navigation from '@/components/navigation'
-import Tips from '@/components/tips'
+import App from '@/App.vue'
+import Footer from '@/home/footer'
+import Navigation from '@/home/navigation'
+import Tips from '@/home/tips'
 
-
+import '../assets/bulma.css' 
+//https://cdnjs.cloudflare.com/ajax/libs/bulma/0.6.2/css/bulma.css
 
 Vue.use(Router)
 

@@ -1,16 +1,15 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
-    <navigation></navigation>
-    <tips></tips>
-    <footer></footer>
+    <Navigation></Navigation>
+    <Tips></Tips>
+    <Footer></Footer>
   </div>
 </template>
 
 <script>
-import Footer from './components/footer.vue'
-import Tips from './components/tips.vue'
-import Navigation from "./components/navigation.vue"
+import Footer from './home/footer.vue'
+import Tips from './home/tips.vue'
+import Navigation from "./home/navigation.vue"
 
 export default {
   name: 'App',
@@ -31,6 +30,5 @@ export default {
     -moz-osx-font-smoothing: grayscale;
     text-align: center;
     color: #2c3e50;
-    margin-top: 60px;
 }
 </style>
