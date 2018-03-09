@@ -1,6 +1,10 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-import HelloWorld from '@/components/HelloWorld'
+import Footer from '@/components/footer'
+import Navigation from '@/components/navigation'
+import Tips from '@/components/tips'
+
+
 
 Vue.use(Router)
 
@@ -8,8 +12,8 @@ export default new Router({
   routes: [
     {
       path: '/',
-      name: 'HelloWorld',
-      component: HelloWorld
+      name: 'App',
+      component: App
     }
   ]
 })
