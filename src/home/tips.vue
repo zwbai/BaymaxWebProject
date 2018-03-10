@@ -53,6 +53,7 @@ export default {
 <style lang="stylus" scoped>
 #tips{
     background-color green
+    margin-top 35px
 }
 </style>
 

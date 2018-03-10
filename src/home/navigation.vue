@@ -50,28 +50,28 @@
             </div>
 
             <div class="navbar-end">
-            <div class="navbar-item">
-                <div class="field is-grouped">
-                <p class="control">
-                    <a class="bd-tw-button button" target="_blank" href="https://github.com/zwbai">
-                    <span class="icon">
-                        <i class="fab fa-Github"></i>
-                    </span>
-                    <span>
-                        Github
-                    </span>
-                    </a>
-                </p>
-                <p class="control">
-                    <a class="button is-primary" href="https://weibo.com/3899676694/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1" target="_blank">
-                    <span class="icon">
-                        <i class="fas fa-download"></i>
-                    </span>
-                    <span>联系我们</span>
-                    </a>
-                </p>
+                <div class="navbar-item">
+                    <div class="field is-grouped">
+                    <p class="control">
+                        <a class="bd-tw-button button" target="_blank" href="https://github.com/zwbai">
+                        <span class="icon">
+                            <i class="fab fa-Github"></i>
+                        </span>
+                        <span>
+                            Github
+                        </span>
+                        </a>
+                    </p>
+                    <p class="control">
+                        <a class="button is-primary" href="https://weibo.com/3899676694/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1" target="_blank">
+                        <span class="icon">
+                            <i class="fas fa-download"></i>
+                        </span>
+                        <span>联系我们</span>
+                        </a>
+                    </p>
+                    </div>
                 </div>
-            </div>
             </div>
         </div>
         </nav>

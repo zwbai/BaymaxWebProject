@@ -4,7 +4,7 @@
         <section class="hero is-medium intro">
             <div class="hero-body">
                 <div class="container">
-                    <div class="intro-columns">
+                    <div class="columns">
                         <div class="intro-column is-content">
                             <div class="intro-content">
                             <h1 class="title intro-title">
@@ -34,23 +34,10 @@
                             </div>
                         </div>
                     </div>
-                    <div class="intro-columns is-partners">
-                        <div class="intro-column is-video">
-                            <div id="introVideo" class="intro-video">
-                                <div class="intro-shadow" style="background-image:"></div>
-                                <div class="intro-spinner">
-                                    ::before
-                                </div>
-                                <div class="intro-iframe">
-                                <iframe id="introIframe" src="https://www.bilibili.com/video/av11366978/" 
-                                width="640" height="338" frameborder="0" 
-                                webkitallowfullscreen mozallowfullscreen allowfullscreen data-vimeo-tracked="true"></iframe>
-                                </div>
-                            </div>
-                            <p class="intro-author">
-                                <span>Video by <a href="https://space.bilibili.com/19840845?spm_id_from=333.338.viewbox_report.7#/"
-                                 target="_blank">BaymaxBai</a></span>
-                            </p>
+                    <div class="columns">
+                        <div class="column is-video">
+                            
+                            
                         </div>
                     </div>
                 </div>

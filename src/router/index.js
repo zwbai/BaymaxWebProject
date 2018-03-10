@@ -6,7 +6,7 @@ import App from '@/App.vue'
 // import Tips from '@/home/tips'
 // import Maindoc from '@/home/maindoc'
 // import Introduction from '@home/introduction'
-import '../assets/bulma.css' 
+import '../assets/styles/bulma.css' 
 //https://cdnjs.cloudflare.com/ajax/libs/bulma/0.6.2/css/bulma.css
 
 Vue.use(Router)
