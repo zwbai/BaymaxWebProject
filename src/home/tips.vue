@@ -6,13 +6,15 @@
                     <div class="columns is-vcentered">
                         <div class="column">
                             <p class="title">
-                                Documentation
+                                北麦课思
                             </p>
+                            <br/>
                             <p class="subtitle">
-                                This is a website that you can learn
+                                在这里你可以了解到
                                 <strong>
-                                    Intelligent Transportation System
+                                    智能交通系统
                                 </strong>
+                                相关的研究内容
                             </p>
                         </div>
                         <div class="column is-narrow">
@@ -34,6 +36,7 @@
                 </div>
             </div>
         </section>
+        
 
     </div>
 </template>

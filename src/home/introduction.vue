@@ -8,14 +8,16 @@
                         <div class="intro-column is-content">
                             <div class="intro-content">
                             <h1 class="title intro-title">
-                            <strong>Bulma</strong> is a free and open source <strong>CSS</strong> framework based on <strong>Flexbox</strong>.
+                            <strong>这里</strong>是一个开源的研究信息分享网站，主要基于
+                            <strong>Python JS Prossessing</strong>等语言进行实现。相关代码都可以可以在我的Github上folk 
+                            
                             </h1>
                             <div id="ghbtns" class="intro-ghbtns">
                             <iframe src="https://ghbtns.com/github-btn.html?user=jgthms&amp;repo=bulma&amp;type=star&amp;count=true&amp;size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
                             <iframe src="https://ghbtns.com/github-btn.html?user=jgthms&amp;repo=bulma&amp;type=fork&amp;count=false&amp;size=large" frameborder="0" scrolling="0" width="80px" height="30px"></iframe>
                             </div>
 
-                            <pre id="npm" class="intro-npm"><code>npm install bulma</code><code id="npmCopy" class="intro-npm-copy" data-clipboard-text="npm install bulma">copy</code></pre>
+                            <pre id="npm" class="intro-npm"><code>Flok my code on Github</code><code id="npmCopy" class="intro-npm-copy" data-clipboard-text="npm install bulma">copy</code></pre>
 
                             <nav class="intro-buttons">
                             <a class="button is-primary is-large" href="https://github.com/jgthms/bulma/releases/download/0.6.2/bulma-0.6.2.zip">

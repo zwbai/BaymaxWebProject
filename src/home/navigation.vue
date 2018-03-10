@@ -1,7 +1,6 @@
 <template>
-    <div id="navigation" class="navbar is-fixed-top is-transparent" style="
-        transform: translateY(0px);">
-        <nav class="navbar is-transparent">
+    <div id="navigation">
+        <nav class="navbar is-fixed-top is-transparent">
         <div class="navbar-brand">
             <a class="navbar-item" href="https://bulma.io">
             <img src="https://bulma.io/images/bulma-logo.png" alt="Bulma: a modern CSS framework based on Flexbox" width="112" height="28">
@@ -55,7 +54,7 @@
                     <p class="control">
                         <a class="bd-tw-button button" target="_blank" href="https://github.com/zwbai">
                         <span class="icon">
-                            <i class="fab fa-Github"></i>
+                            <i class="fab fa-github-square"></i>
                         </span>
                         <span>
                             Github
