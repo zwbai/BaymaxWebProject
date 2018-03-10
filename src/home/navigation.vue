@@ -1,5 +1,6 @@
 <template>
-    <div id="navigation">
+    <div id="navigation" class="navbar is-fixed-top is-transparent" style="
+        transform: translateY(0px);">
         <nav class="navbar is-transparent">
         <div class="navbar-brand">
             <a class="navbar-item" href="https://bulma.io">
