@@ -3,8 +3,8 @@
     <Navigation></Navigation>
     <Tips></Tips>
     <Introduction></Introduction>
-    <Imagebanner></Imagebanner>
     <Maindoc></Maindoc>
+    <Imagebanner></Imagebanner>
     <Author></Author>
     <Footer></Footer>
   </div>

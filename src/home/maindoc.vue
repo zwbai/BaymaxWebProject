@@ -1,5 +1,30 @@
 <template>
 <div id="maindoc">
+    <section class="hero is-fullheight">
+    <div class="hero-body">
+        <div class="container">
+        <h1 class="title">
+            Primary bold title
+        </h1>
+        <h2 class="subtitle">
+            Primary bold subtitle
+        </h2>
+        </div>
+    </div>
+    </section>
+    <hr/>
+    <section class="hero is-fullheight">
+    <div class="hero-body">
+        <div class="container">
+        <h1 class="title">
+            Primary bold title
+        </h1>
+        <h2 class="subtitle">
+            Primary bold subtitle
+        </h2>
+        </div>
+    </div>
+    </section>
     <section class="hero is-fullheight is-primary">
     <div class="hero-head">
         <div class="container">
