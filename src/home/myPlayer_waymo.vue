@@ -1,20 +1,20 @@
 <template>
-  <div class="video-container">
+<div class="video-container">
     <section class="hero is-info">
-      <div class="hero-body">
-          <div class="container">
-          <h2 class="title">
-              基于神经网络的无人驾驶训练模型演示
-          </h2>
-          <h2 class="subtitle">
-              Get the code <a href="https://weibo.com/3899676694/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1" 
-              target="_blank">@github</a> 
-          </h2>
-          </div>
-      </div>
+        <div class="hero-body">
+            <div class="container">
+            <h2 class="title">
+                Google Waymo无人驾驶汽车
+            </h2>
+            <h2 class="subtitle">
+                See more <a href="https://weibo.com/3899676694/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1" 
+                target="_blank">@Waymo</a> 
+            </h2>
+            </div>
+        </div>
     </section>
     <div class="item">
-      <div class="player">
+    <div class="player">
         <video-player  class="video-player vjs-custom-skin"
                         ref="videoPlayer"
                         :options="playerOptions"
@@ -31,21 +31,22 @@
                         @ready="playerReadied"
                         @statechanged="playerStateChanged($event)">
         </video-player>
-      </div>
+    </div>
     </div>
     <section class="hero is-fullheight">
-    <div class="hero-body">
-      <div class="container">
-      <h1 class="title">
-          原理介绍
-      </h1>
-      <h2 class="subtitle">
-          Neural Network
-      </h2>
+      <div class="hero-body">
+        <div class="container">
+        <h1 class="title">
+            原理介绍
+        </h1>
+        <h2 class="subtitle">
+            Neural Network
+        </h2>
+        </div>
       </div>
-    </div>
-    </section>
-  </div>
+      </section>
+      <!-- <hr/> -->
+</div>
 </template>
 
 <script>
@@ -67,7 +68,7 @@
             type: "video/mp4",
             // mp4
             // src: "http://vjs.zencdn.net/v/oceans.mp4",
-            src: "http://www.baymaxbai.cn/media/videos/Deep_Learning_Cars.mp4",
+            src: "http://www.baymaxbai.cn/media/videos/Waymo_selfdriving.mp4",
             // src: "../assets/videos/Deep_Learning_Cars.mp4",
             // webm
             // src: "https://cdn.theguardian.tv/webM/2015/07/20/150716YesMen_synd_768k_vp8.webm"
@@ -137,7 +138,7 @@
       playerReadied(player) {
         // seek to 10s
         console.log('example player 1 readied', player)
-        player.currentTime(0)
+        player.currentTime(10)
         // console.log('example 01: the player is readied', player)
       }
     }

@@ -1,25 +1,28 @@
 <template>
-    <div class="banner-container">
-        <section class="hero is-warning">
-        <div class="hero-body">
-            <div class="container">
-            <h1 class="title">
-                交大剪影
-            </h1>
-            <h2 class="subtitle">
-                See more photos <a href="https://weibo.com/3899676694/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1" 
-                target="_blank">@Baymax</a> 
-            </h2>
-            </div>
-        </div>
-        </section>
-        <div class="swiper-container">
-            <div class="swiper-wrapper">
-                <div class="swiper-slide" v-for="str in listImg" :style="{ backgroundImage: 'url(' + str.url + ')' }"></div>
-            </div>
-            <div class="swiper-pagination swiper-pagination-white"></div>
+<div>
+    <section class="hero is-warning">
+    <div class="hero-body">
+        <div class="container">
+        <h2 class="title">
+            交大剪影
+        </h2>
+        <h2 class="subtitle">
+            See more photos <a href="https://weibo.com/3899676694/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1" 
+            target="_blank">@Baymax</a> 
+        </h2>
         </div>
     </div>
+    </section>
+    <div class="banner-container">
+    <div class="swiper-container">
+        <div class="swiper-wrapper">
+            <div class="swiper-slide" v-for="str in listImg" :style="{ backgroundImage: 'url(' + str.url + ')' }"></div>
+        </div>
+        <div class="swiper-pagination swiper-pagination-white"></div>
+    </div>
+    </div>
+</div>
+    
     
 </template>
 
@@ -72,7 +75,7 @@
     }
     .banner-container{
         width:100%;
-        height:720px;
+        height:630px;
         }
 
 </style>

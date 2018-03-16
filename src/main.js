@@ -4,13 +4,14 @@ import Vue from 'vue'
 import App from './App'
 import router from './router'
 // 把VueVideoPlayer导入并挂在到vue上 edit by zwbai-20180316
-import VideoPlayer from 'vue-video-player'
-Vue.use(VideoPlayer);
+import videojs from 'video.js'
+import VueVideoPlayer from 'vue-video-player'
+import 'video.js/dist/video-js.css'
+Vue.use(VueVideoPlayer)
 // 第一个是videoJs的样式，后一个是vue-video-player的样式，因为考虑到我其他业务组件可能也会用到视频播放，所以就放在了main.js内
-require('video.js/dist/video-js.css')
-require('vue-video-player/src/custom-theme.css')
+import 'vue-video-player/src/custom-theme.css'
 //增加hls支持
-require('videojs-contrib-hls/dist/videojs-contrib-hls');
+// require('videojs-contrib-hls/dist/videojs-contrib-hls');
 // font awesome 5 configeration start edit by zwbai-20180310
 import fontawesome from '@fortawesome/fontawesome'
 import FontAwesomeIcon from '@fortawesome/vue-fontawesome'

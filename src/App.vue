@@ -4,7 +4,8 @@
     <Tips></Tips>
     <Introduction></Introduction>
     <myVideo></myVideo>
-    <Maindoc></Maindoc>
+    <myVideoWaymo></myVideoWaymo>
+    <!-- <Maindoc></Maindoc> -->
     <Imagebanner></Imagebanner>
     <Author></Author>
     <Footer></Footer>
@@ -20,6 +21,7 @@ import Introduction from './home/introduction.vue'
 import Author from './home/author.vue'
 import Imagebanner from './home/imagebanner.vue'
 import myVideo from './home/myPlayer.vue'
+import myVideoWaymo from './home/myPlayer_waymo.vue'
 export default {
   name: 'App',
   components: {
@@ -27,6 +29,7 @@ export default {
     Tips,
     Introduction,
     myVideo,
+    myVideoWaymo,
     Imagebanner,
     Maindoc,
     Author,
