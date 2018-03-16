@@ -3,6 +3,7 @@
     <Navigation></Navigation>
     <Tips></Tips>
     <Introduction></Introduction>
+    <myVideo></myVideo>
     <Maindoc></Maindoc>
     <Imagebanner></Imagebanner>
     <Author></Author>
@@ -18,13 +19,14 @@ import Maindoc from './home/maindoc.vue'
 import Introduction from './home/introduction.vue'
 import Author from './home/author.vue'
 import Imagebanner from './home/imagebanner.vue'
-
+import myVideo from './home/myPlayer.vue'
 export default {
   name: 'App',
   components: {
     Navigation,
     Tips,
     Introduction,
+    myVideo,
     Imagebanner,
     Maindoc,
     Author,
@@ -34,6 +36,4 @@ export default {
 }
 </script>
 
-<style>
 
-</style>
