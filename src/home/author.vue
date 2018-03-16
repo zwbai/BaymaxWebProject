@@ -20,20 +20,22 @@
     </div>
     <div class="card-content">
         <div class="media">
-        <div class="media-left">
-            <figure class="image is-48x48">
-            <img src="../assets/images/logo.jpg" alt="Placeholder image">
-            </figure>
-        </div>
-        <div class="media-content">
-            <p class="title is-4">Micale Bai</p>
-            <p class="subtitle is-6">@Baymax</p>
-        </div>
+            <div class="media-left">
+                <figure class="image is-48x48">
+                <img src="../assets/images/logo.jpg" alt="Placeholder image">
+                </figure>
+            </div>
+            <div class="media-content">
+                <p class="title is-4">Michael Bai</p>
+                <p class="subtitle is-6">@Baymax</p>
+            </div>
         </div>
 
         <div class="content">
-        现就读于北京交通大学<a>@BJTU</a>主攻智能车路协同领域
-        <a href="#">#ITS</a> <a href="#">#VICS</a>
+        现就读于北京交通大学<a href="http://www.bjtu.edu.cn" target="_blank">@BJTU</a>主攻智能车路协同领域
+        <a href="https://baike.baidu.com/item/ITS/729126?fr=aladdin" target="_blank">#ITS</a>
+        <a href="https://baike.baidu.com/item/%E6%99%BA%E8%83%BD%E8%BD%A6%E8%B7%AF%E5%8D%8F%E5%90%8C%E7%B3%BB%E7%BB%9F/15876181?fr=aladdin&fromid=1647647&fromtitle=%E8%BD%A6%E8%B7%AF%E5%8D%8F%E5%90%8C" target="_blank">
+        #VICS</a>
         <br>
         <time datetime="2017-11-10">1:16 PM - 10 Nov 2017</time>
         </div>

@@ -3,7 +3,7 @@
         <nav class="navbar is-fixed-top is-transparent">
         <div class="navbar-brand">
             <a class="navbar-item" href="https://bulma.io">
-            <img src="https://bulma.io/images/bulma-logo.png" alt="Bulma: a modern CSS framework based on Flexbox" width="112" height="28">
+            <img src="../assets/images/web_icon.png" alt="Bulma: a modern CSS framework based on Flexbox" width="112" height="28">
             </a>
             <div class="navbar-burger burger" data-target="navbarExampleTransparentExample">
             <span></span>
@@ -14,7 +14,7 @@
 
         <div id="navbarExampleTransparentExample" class="navbar-menu">
             <div class="navbar-start">
-            <a class="navbar-item" href="https://bulma.io/">
+            <a class="navbar-item" href="http://www.baymaxbai.cn" target="_blank"> 
                 主页
             </a>
             <div class="navbar-item has-dropdown is-hoverable">
@@ -29,7 +29,7 @@
                     研究内容
                 </a>
                 <a class="navbar-item" href="https://bulma.io/documentation/columns/basics/">
-                    交友天地
+                    Let`s Talk
                 </a>
                 <a class="navbar-item" href="https://bulma.io/documentation/layout/container/">
                     曾获奖项

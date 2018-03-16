@@ -11,10 +11,14 @@
                             <br/>
                             <p class="subtitle">
                                 在这里你可以了解到
+                                <b>
+                                    机器学习
+                                </b>
+                                与
                                 <strong>
                                     智能交通系统
                                 </strong>
-                                相关的研究内容
+                                相关的学习内容
                             </p>
                         </div>
                         <div class="column is-narrow">

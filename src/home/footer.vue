@@ -3,9 +3,13 @@
     <div class="container">
         <div class="content has-text-centered">
         <p>
-            <strong>BaymaxBai</strong> by <a href="https://jgthms.com">Micale Bai</a>. The source code is opensource
-            <a href="http://opensource.org/licenses/mit-license.php">Github</a>. The website content
-            is licensed <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY NC SA 4.0</a>.
+            <strong>BaymaxBai</strong> by 
+            <a href="https://weibo.com/3899676694/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1" target="_blank">
+            Michael Bai</a>. The source code is opensourced at
+            <a href="https://github.com/zwbai" target="_blank">Github</a>. 
+        </p>
+        <p>
+            © 2018 Baymaxbai.cn All Rights Reserved
         </p>
         </div>
     </div>
