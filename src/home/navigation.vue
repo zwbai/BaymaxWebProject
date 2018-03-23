@@ -2,8 +2,8 @@
     <div id="navigation">
         <nav class="navbar is-fixed-top is-transparent">
         <div class="navbar-brand">
-            <a class="navbar-item" href="https://bulma.io">
-            <img src="../assets/images/web_icon.png" alt="Bulma: a modern CSS framework based on Flexbox" width="112" height="28">
+            <a class="navbar-item" href="https://www.baymaxbai.cn">
+            <img src="../assets/images/web_icon.png" alt="Baymaxbai: a modern ML&ITS Learning website" width="112" height="28">
             </a>
             <div class="navbar-burger burger" data-target="navbarExampleTransparentExample">
             <span></span>
@@ -18,30 +18,30 @@
                 主页
             </a>
             <div class="navbar-item has-dropdown is-hoverable">
-                <a class="navbar-link" href="/documentation/overview/start/">
+                <a class="navbar-link" href="">
                 导航栏
                 </a>
                 <div class="navbar-dropdown is-boxed">
-                <a class="navbar-item" href="/documentation/overview/start/">
+                <a class="navbar-item" href="">
                     研究方向
                 </a>
-                <a class="navbar-item" href="https://bulma.io/documentation/modifiers/syntax/">
+                <a class="navbar-item" href="">
                     研究内容
                 </a>
-                <a class="navbar-item" href="https://bulma.io/documentation/columns/basics/">
+                <a class="navbar-item" href="">
                     Let`s Talk
                 </a>
-                <a class="navbar-item" href="https://bulma.io/documentation/layout/container/">
+                <a class="navbar-item" href="">
                     曾获奖项
                 </a>
-                <a class="navbar-item" href="https://bulma.io/documentation/form/general/">
+                <a class="navbar-item" href="">
                     发表论文
                 </a>
                 <hr class="navbar-divider">
-                <a class="navbar-item" href="https://bulma.io/documentation/elements/box/">
+                <a class="navbar-item" href="">
                     About
                 </a>
-                <a class="navbar-item is-active" href="https://bulma.io/documentation/components/breadcrumb/">
+                <a class="navbar-item is-active" href="">
                     赞助
                 </a>
                 </div>

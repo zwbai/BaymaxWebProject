@@ -8,8 +8,9 @@
                 <div class="intro-column is-content">
                     <div class="intro-content">
                     <h1 class="title intro-title">
-                    这里是一个开源的研究信息分享网站，主要基于
-                    Python JS Prossessing等语言进行实现。相关代码都可以可以在我的Github上folk 
+                    <p>这里是一个开源的研究信息分享网站<p/>
+                    <p>使用Python、C/C++、Prossessing等语言来实现一些有趣的Project<p/>
+                    <p>欢迎在我的Github上Star、Folk or Download<p/>
                     
                     </h1>
                     <div id="ghbtns" class="intro-ghbtns">
@@ -17,7 +18,7 @@
                     <iframe src="https://ghbtns.com/github-btn.html?user=zwbai&amp;repo=ITS-web&amp;type=fork&amp;count=false&amp;size=large" frameborder="0" scrolling="0" width="80px" height="30px"></iframe>
                     </div>
 
-                    <pre id="npm" class="intro-npm"><code>Flok my code on Github</code><code id="npmCopy" class="intro-npm-copy" data-clipboard-text="npm install bulma">copy</code></pre>
+                    <pre id="npm" class="intro-npm"><code>https://github.com/zwbai</code></pre>
 
                     <nav class="intro-buttons">
                     <a class="button is-primary is-large" href="https://github.com/zwbai/ITS-web/archive/master.zip">
@@ -44,7 +45,7 @@
                         </div>
                     </div>
                     <div>
-                        <span>Video by <a href="http://www.vuemastery.com/" target="_blank">Vue Mastery</a></span>
+                        <!-- <span>Video by <a href="http://www.vuemastery.com/" target="_blank">Vue Mastery</a></span> -->
                     </div>
                 </div>
             </div>
