@@ -1,7 +1,9 @@
-# baymaxbai
+# www.baymaxbai.cn
 
 > A Vue.js project
+A Personal website
 
+Share some interesting things 
 ## Build Setup
 
 ``` bash
