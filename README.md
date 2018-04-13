@@ -4,7 +4,7 @@
 A Personal website
 
 Share some interesting things 
-## Build Setup
+# Build Setup
 
 ``` bash
 # install dependencies
